@@ -1,0 +1,19 @@
+{
+  "name": "adtop-store-service",
+  "version": "1.0.0",
+  "description": "Th�is application web service of AdTop Store Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vuong Lam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cron": "^1.2.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.8",
+    "node-restful": "^0.2.6"
+  }
+}

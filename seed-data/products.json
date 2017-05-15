@@ -1,0 +1,47 @@
+[
+	{
+		"name" : "Iphone 6",
+		"prices" : [
+			{
+				"price" : 18000000,
+				"startDate" : "Sun May 14 2015 13:17:11 GMT+0700 (SE Asia Standard Time)"
+			},
+			{
+				"price" : 16500000,
+				"startDate" : "Sun May 14 2016 13:17:11 GMT+0700 (SE Asia Standard Time)"
+			},
+			{
+				"price" : 11000000,
+				"startDate" : "Sun Jan 15 2017 13:17:11 GMT+0700 (SE Asia Standard Time)"
+			}
+		]
+	}, {
+		"name" : "Samsung Galaxy S7",
+		"prices" : [
+			{
+				"price" : 15000000,
+				"startDate" : "Fri Aug 14 2015 13:17:11 GMT+0700 (SE Asia Standard Time)"
+			},
+			{
+				"price" : 8000000,
+				"startDate" : "Tue Jun 14 2016 13:17:11 GMT+0700 (SE Asia Standard Time)"
+			}
+		]
+	}, {
+		"name" : "Sony Xperia XZ",
+		"prices" : [
+			{
+				"price" : 14000000,
+				"startDate" : "Fri Aug 14 2015 13:17:11 GMT+0700 (SE Asia Standard Time)"
+			},
+			{
+				"price" : 7000000,
+				"startDate" : "Tue Jun 14 2016 13:17:11 GMT+0700 (SE Asia Standard Time)"
+			},
+			{
+				"price" : 5000000,
+				"startDate" : "Sat Jan 14 2017 13:17:11 GMT+0700 (SE Asia Standard Time)"
+			}
+		]
+	}
+]
