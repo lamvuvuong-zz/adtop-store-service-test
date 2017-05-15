@@ -1,5 +1,5 @@
 module.exports =  {
 	api: 'mongodb://localhost/adtop-store-service',
-	cronTime: '00 * * * * *',
+	cronTime: '00 00 * * * *',
 	timeZone: 'Asia/Seoul'
 };
